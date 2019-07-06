@@ -4,11 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import com.cg.flightreservationsystem.dto.PassengerDTO;
 import com.cg.flightreservationsystem.exception.FRSException;
 import com.cg.flightreservationsystem.service.BookingOperations;
 import com.cg.flightreservationsystem.service.impl.BookingOperationsImpl;
 import com.cg.flightreservationsystem.utility.PassengerDetailsValidator;
+import com.cg.frs.PassengerDTO;
 
 public class Main {
 

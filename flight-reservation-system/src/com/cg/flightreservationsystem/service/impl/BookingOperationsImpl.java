@@ -4,11 +4,11 @@ import java.util.List;
 
 import com.cg.flightreservationsystem.dao.PassengerDao;
 import com.cg.flightreservationsystem.dao.PassengerDaoImpl;
-import com.cg.flightreservationsystem.dto.PassengerDTO;
 import com.cg.flightreservationsystem.exception.FRSException;
 import com.cg.flightreservationsystem.service.BookingOperations;
 import com.cg.flightreservationsystem.utility.ExceptionMessages;
 import com.cg.flightreservationsystem.utility.PassengerDetailsValidator;
+import com.cg.frs.PassengerDTO;
 
 public class BookingOperationsImpl implements BookingOperations {
 

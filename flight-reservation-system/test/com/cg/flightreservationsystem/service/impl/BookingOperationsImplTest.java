@@ -9,9 +9,9 @@ import java.util.List;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import com.cg.flightreservationsystem.dto.PassengerDTO;
 import com.cg.flightreservationsystem.exception.FRSException;
 import com.cg.flightreservationsystem.service.BookingOperations;
+import com.cg.frs.PassengerDTO;
 
 class BookingOperationsImplTest {
 

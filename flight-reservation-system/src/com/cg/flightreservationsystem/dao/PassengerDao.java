@@ -2,8 +2,8 @@ package com.cg.flightreservationsystem.dao;
 
 import java.util.List;
 
-import com.cg.flightreservationsystem.dto.PassengerDTO;
 import com.cg.flightreservationsystem.exception.FRSException;
+import com.cg.flightreservationsystem.dto.PassengerDTO;
 
 public interface PassengerDao {
 

@@ -3,8 +3,8 @@ package com.cg.flightreservationsystem.service;
 import java.sql.SQLException;
 import java.util.List;
 
-import com.cg.flightreservationsystem.dto.PassengerDTO;
 import com.cg.flightreservationsystem.exception.FRSException;
+import com.cg.frs.PassengerDTO;
 
 public interface BookingOperations {
 	int CAPACITY = 180;
